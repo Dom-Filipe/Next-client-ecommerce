@@ -22,7 +22,7 @@ function EnvioEntrega() {
             marginBottom: "1em",
           }}
         >
-          Todos os produtos disponíveis na DIAMOND STORE são produtos primeira
+          Todos os produtos disponíveis na conexão importados são produtos primeira
           linha de qualidade enviados diretamente de nossos fornecedores no
           exterior (Suiça, Estados Unidos e China) para o endereço informado no
           momento da compra, e a entrega leva a partir de 15 até 40 dias úteis
@@ -128,10 +128,10 @@ function EnvioEntrega() {
         >
           Os produtos serão enviados pelos Correios ou outra transportadora,
           sempre haverá um Código de Rastreio que possibilitará ao cliente
-          acompanhar o progresso da entrega, a DIAMOND STORE se compromete a
+          acompanhar o progresso da entrega, a Conexão Importados se compromete a
           instruir o cliente para a forma de rastrear os produtos. O código para
           acesso ao rastreamento será enviado para o seu e-mail assim que
-          estiver disponível para a DIAMOND STORE.
+          estiver disponível para a Conexão Importados.
         </p>
 
         <p
@@ -174,7 +174,7 @@ function EnvioEntrega() {
             marginBottom: "1em",
           }}
         >
-          A DIAMOND STORE providenciará o envio dos produtos para o endereço que
+          A Conexão Importados providenciará o envio dos produtos para o endereço que
           o cliente solicitar. Portanto, para que não haja empecilhos para a
           entrega da sua encomenda, pedimos atenção no momento de preencher o
           endereço no qual deseja receber o seu pedido.
@@ -231,7 +231,7 @@ function EnvioEntrega() {
             marginBottom: "1em",
           }}
         >
-          A DIAMOND STORE não se responsabiliza pelo preenchimento incorreto ou
+          A Conexão Importados não se responsabiliza pelo preenchimento incorreto ou
           incompleto do endereço de destino dos pedidos realizados na loja. Caso
           ocorra o endereçamento incorreto ou incompleto, por norma dos
           Correios, o pacote retornará ao remetente, e não serão mais realizadas

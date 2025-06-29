@@ -21,8 +21,8 @@ function MyApp({ Component, pageProps }: AppProps) {
       }}
     >
       <Head>
-        <title>Diamond Store</title>
-        <link rel="shortcut icon" href="/logos/logo.ico" />
+        <title>Conexão Importado</title>
+        <link rel="shortcut icon" href="/logos/logoo.ico" />
       </Head>
       <CartProvider>
         <Layout>

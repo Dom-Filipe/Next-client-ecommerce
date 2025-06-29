@@ -106,12 +106,20 @@ const Home: NextPage = ({ data }: any) => {
       <SmBanners/>
 
       <div className={styles.about}>
-          <h2>QUEM SOMOS NÓS? 💎</h2>
-          <p>O mercado de lojas virtuais e principalmente de camisas de time, está muito saturado, porém nós vimos que faltava uma empresa que passasse a confiança e reciprocidade necessária para os seus clientes. Foi a partir daí que veio a ideia de criar a Diamond Store, ou para os íntimos, DMD.</p>
-          <p>Nós da Diamond, viemos para trazer uma visão diferente do mercado, integrando tecnologia, logistica e praticidade, tudo para trazer a melhor qualidade e experiencia para o nosso cliente!</p>
-          <p>Dê uma conferida em nossos produtos! Ah, quer uma sugestão de amigo? Da uma olhadinha <a href="">nessas camisas</a> que eu separei pra você aqui, garanto que vai gostar! </p>
-          
-      </div>
+  <h2>QUEM SOMOS NÓS? 💎</h2>
+  <p>O mercado de lojas virtuais, principalmente no segmento de camisas de time e artigos esportivos, está cada vez mais competitivo e saturado. Mesmo assim, nós enxergamos uma oportunidade: faltar uma marca que entregue não só produtos, mas também confiança, transparência e proximidade real com o cliente.
+
+Foi a partir dessa visão que nasceu a Cenexão Importado — ou, para quem já faz parte da nossa comunidade, Cenexão.
+
+Aqui na Cenexão, acreditamos que importar vai muito além de vender: é conectar torcedores apaixonados aos melhores produtos, de forma segura, prática e com qualidade garantida.
+
+Para isso, integramos tecnologia, logística e atendimento humanizado, criando uma experiência de compra que vai do carrinho até a porta da sua casa — sempre com o cuidado que você merece.
+
+Cenexão Importado. Mais do que uma loja, uma conexão direta entre você e o mundo do esporte.</p>
+  <p>Dê uma conferida em nossos produtos! Ah, quer uma sugestão de amigo? Dá uma olhadinha <a href="">nessas camisas</a> que eu separei pra você aqui, garanto que vai gostar!</p>
+  <p>💙 Nos siga no Instagram: <a href="https://www.instagram.com/conexaoimportado/" target="_blank" rel="noopener noreferrer">@conexaoimportado</a></p>
+</div>
+
     </div>
   );
 };

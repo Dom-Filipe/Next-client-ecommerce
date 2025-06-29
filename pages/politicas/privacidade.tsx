@@ -5,7 +5,7 @@ function Privacidade() {
     <div style={{display: 'flex', flexDirection: 'column', justifyContent: 'center'}}>
       <h3 style={{textAlign: 'center', padding:'2em'}}>Política de Privacidade</h3>
       <p style={{textAlign:'justify', width:'50%', margin:'auto', marginBottom:'1em'}}>
-        Nós da DIAMOND STORE oferecemos aos nossos clientes a forma mais segura
+        Nós da Conexão Importados oferecemos aos nossos clientes a forma mais segura
         de comprar pela internet.
       </p>
 
